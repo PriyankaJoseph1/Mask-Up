@@ -16,6 +16,12 @@
 		1838FC5E24D1C0AF00DA4EA8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1838FC5C24D1C0AF00DA4EA8 /* LaunchScreen.storyboard */; };
 		1838FC6924D1C0AF00DA4EA8 /* Mask_UpTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1838FC6824D1C0AF00DA4EA8 /* Mask_UpTests.swift */; };
 		1838FC7424D1C0B000DA4EA8 /* Mask_UpUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1838FC7324D1C0B000DA4EA8 /* Mask_UpUITests.swift */; };
+		CEBBD7B024D467030035FE77 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEBBD7AF24D467030035FE77 /* ViewController2.swift */; };
+		CEBBD7B224D467470035FE77 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEBBD7B124D467470035FE77 /* ViewController3.swift */; };
+		CEBBD7B424D467780035FE77 /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEBBD7B324D467780035FE77 /* ViewController4.swift */; };
+		CEBBD7B624D467AC0035FE77 /* ViewController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEBBD7B524D467AC0035FE77 /* ViewController5.swift */; };
+		CEBBD7B824D467DA0035FE77 /* ViewController6.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEBBD7B724D467DA0035FE77 /* ViewController6.swift */; };
+		CEBBD7BA24D468020035FE77 /* ViewController7.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEBBD7B924D468020035FE77 /* ViewController7.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +57,12 @@
 		1838FC6F24D1C0B000DA4EA8 /* Mask UpUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mask UpUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1838FC7324D1C0B000DA4EA8 /* Mask_UpUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mask_UpUITests.swift; sourceTree = "<group>"; };
 		1838FC7524D1C0B000DA4EA8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEBBD7AF24D467030035FE77 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		CEBBD7B124D467470035FE77 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
+		CEBBD7B324D467780035FE77 /* ViewController4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController4.swift; sourceTree = "<group>"; };
+		CEBBD7B524D467AC0035FE77 /* ViewController5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController5.swift; sourceTree = "<group>"; };
+		CEBBD7B724D467DA0035FE77 /* ViewController6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController6.swift; sourceTree = "<group>"; };
+		CEBBD7B924D468020035FE77 /* ViewController7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController7.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +117,12 @@
 				1838FC5024D1C0AB00DA4EA8 /* SceneDelegate.swift */,
 				1838FC5224D1C0AB00DA4EA8 /* ViewController.swift */,
 				1838FC5424D1C0AB00DA4EA8 /* Main.storyboard */,
+				CEBBD7B924D468020035FE77 /* ViewController7.swift */,
+				CEBBD7B724D467DA0035FE77 /* ViewController6.swift */,
+				CEBBD7B524D467AC0035FE77 /* ViewController5.swift */,
+				CEBBD7B324D467780035FE77 /* ViewController4.swift */,
+				CEBBD7B124D467470035FE77 /* ViewController3.swift */,
+				CEBBD7AF24D467030035FE77 /* ViewController2.swift */,
 				1838FC5A24D1C0AF00DA4EA8 /* Assets.xcassets */,
 				1838FC5C24D1C0AF00DA4EA8 /* LaunchScreen.storyboard */,
 				1838FC5F24D1C0AF00DA4EA8 /* Info.plist */,
@@ -262,9 +280,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEBBD7B024D467030035FE77 /* ViewController2.swift in Sources */,
+				CEBBD7B424D467780035FE77 /* ViewController4.swift in Sources */,
 				1838FC5924D1C0AB00DA4EA8 /* Mask_Up.xcdatamodeld in Sources */,
+				CEBBD7B224D467470035FE77 /* ViewController3.swift in Sources */,
+				CEBBD7B624D467AC0035FE77 /* ViewController5.swift in Sources */,
 				1838FC5324D1C0AB00DA4EA8 /* ViewController.swift in Sources */,
+				CEBBD7B824D467DA0035FE77 /* ViewController6.swift in Sources */,
 				1838FC4F24D1C0AB00DA4EA8 /* AppDelegate.swift in Sources */,
+				CEBBD7BA24D468020035FE77 /* ViewController7.swift in Sources */,
 				1838FC5124D1C0AB00DA4EA8 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
